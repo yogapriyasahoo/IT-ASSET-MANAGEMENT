@@ -1,4 +1,4 @@
-# NALCO IT Asset Management System
+# IT Asset Management System
 
 A PHP & MySQL-based web application for managing IT assets, employee assignments, departments, maintenance logs, asset status tracking, and reports, with an integrated dashboard and automated maintenance status synchronization.
 
