@@ -1,4 +1,4 @@
-# NALCO IT Asset Management System
+# IT Asset Management System
 
 A web-based IT Asset Management System developed to efficiently manage, track, and monitor organizational IT assets. The system provides a centralized platform for maintaining asset records, managing departments, tracking employee assignments, recording maintenance activities, and generating reports.
 
