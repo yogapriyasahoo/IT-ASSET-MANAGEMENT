@@ -22,7 +22,8 @@ The system allows administrators to:
 * Monitor asset and maintenance statistics through a centralized dashboard
 * View graphical reports and analyze asset distribution
 
-The project provided practical hands-on experience in **PHP, MySQL, Bootstrap, database design, CRUD operations, session management, asset tracking, maintenance management, and data visualization** in a real-world organizational environment.
+The project provided practical hands-on experience in **PHP, MySQL, Bootstrap, database design, database record management, session management, asset tracking, maintenance management, and data visualization** in a real-world organizational environment.
+
 
 
 ---
