@@ -8,18 +8,22 @@ The project was developed using PHP and MySQL with Bootstrap for the user interf
 
 ## 📌 Project Overview
 
-Managing IT assets manually can make it difficult to keep track of asset allocation, employee assignments, maintenance activities, and asset status. This project provides a centralized solution where administrators can manage the complete lifecycle of IT assets from a single platform.
+The **IT Asset Management System** was developed during my **internship at National Aluminium Company Limited (NALCO), Angul**. The project was developed to provide a centralized and efficient solution for managing organizational IT assets and to simplify the tracking of asset allocation, employee assignments, maintenance activities, and asset status.
 
 The system allows administrators to:
 
-- Add and manage IT assets
-- Assign assets to employees
-- Organize assets by department
-- Track asset status
-- Record and manage maintenance activities
-- Search and filter records
-- View analytical reports
-- Monitor asset and maintenance statistics through a dashboard
+* Add, update, and manage IT assets
+* Assign and track assets allocated to employees
+* Organize assets based on departments
+* Monitor asset status and lifecycle
+* Record and manage maintenance activities
+* Track maintenance progress and synchronize asset status
+* Search, filter, and paginate asset and maintenance records
+* Monitor asset and maintenance statistics through a centralized dashboard
+* View graphical reports and analyze asset distribution
+
+The project provided practical hands-on experience in **PHP, MySQL, Bootstrap, database design, CRUD operations, session management, asset tracking, maintenance management, and data visualization** in a real-world organizational environment.
+
 
 ---
 
